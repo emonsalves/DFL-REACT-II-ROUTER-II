@@ -1,8 +1,10 @@
-import React from 'react'
+import React from "react"
 
 function Home() {
   return (
-    <div>Home</div>
+    <div className="min-w-full flex justify-center">
+      <img className="" src="../../public/pokeHome.jpg" alt="Foto Home" />
+    </div>
   )
 }
 
