@@ -1,8 +1,11 @@
-import React from 'react'
+import React from "react"
 
+import Endvar from "../components/Endbar"
 function Footer() {
   return (
-    <div><h1>Footer</h1></div>
+    <div className="fixed bottom-0 min-w-full">
+      <Endvar />
+    </div>
   )
 }
 
