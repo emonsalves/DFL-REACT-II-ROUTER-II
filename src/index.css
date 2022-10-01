@@ -9,7 +9,7 @@
   padding: 0;
   box-sizing: border-box;
   min-height: 100vh;
-  background: linear-gradient(45deg, #4e65ff, #0d8496)
+  background: linear-gradient(45deg, #4e65ff, #d84242)
 }
 
 @tailwind base;
