@@ -2,8 +2,8 @@ import React from "react"
 
 function Home() {
   return (
-    <div className="min-w-full flex justify-center">
-      <img className="" src="../../public/pokeHome.jpg" alt="Foto Home" />
+    <div className="container min-h-[90vh] flex justify-center">
+      <img src="/pokeHome.jpg" alt="image pokemon home"/>
     </div>
   )
 }

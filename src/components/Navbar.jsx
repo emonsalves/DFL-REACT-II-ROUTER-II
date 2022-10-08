@@ -34,7 +34,7 @@ export default function Navbar() {
                 to={"/"}
                 className={({ isActive }) =>
                   isActive
-                    ? "px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75 bg-gray-500 rounded-lg"
+                    ? "px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75 bg-blue-500 rounded-lg"
                     : "px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
                 }
                 end
@@ -44,10 +44,10 @@ export default function Navbar() {
             </li>
             <li className="nav-item">
               <NavLink
-                to={"/Pokemons"}
+                to={"/Pokemon"}
                 className={({ isActive }) =>
                   isActive
-                    ? "px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75 bg-gray-500 rounded-lg"
+                    ? "px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75 bg-blue-500 rounded-lg"
                     : "px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
                 }
                 end
