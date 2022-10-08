@@ -11,11 +11,11 @@ Requerimientos<br/>
 1. Asignar una clase active a la ruta que el usuario consulte usando NavLink (3 Puntos)<br/>
 2. Redireccionar programáticamente al usuario usando el hook useNavigate (4 Puntos)<br/>
 3. Obtener parámetros de la URL usando el hook useParams (3 Puntos)<br/>
-¡Mucho
+
 
 
 ## Links
-Netlify Pages: 
+Netlify Pages: https://emonsalvesrouter2.netlify.app/Pokemon
 
 ## Installation
 
