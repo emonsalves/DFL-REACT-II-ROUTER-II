@@ -15,7 +15,7 @@ Requerimientos<br/>
 
 
 ## Links
-Netlify Pages: https://emonsalvesrouter2.netlify.app/Pokemon
+Netlify Pages: https://emonsalvesrouter2.netlify.app
 
 ## Installation
 
