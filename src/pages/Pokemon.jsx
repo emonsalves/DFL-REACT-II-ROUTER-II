@@ -8,7 +8,7 @@ function Pokemon() {
   const { data } = useContext(Context)
 
   return (
-    <div className="container min-h-[90vh] flex flex-col justify-center items-center">
+    <div className="container min-h-[90vh] min-w-full flex flex-col justify-center items-center">
       <h1 className="text-2xl font-bold mb-5">Choose your Pokemon</h1>
       <Select list={data} />
       <Card />
